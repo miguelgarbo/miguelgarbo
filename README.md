@@ -20,7 +20,7 @@ Sou desenvolvedor de software com interesse em criar soluções eficientes, esca
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** https://linkedin.com/in/SEU_USER ](https://br.linkedin.com/in/miguel-garbo-486268330
+- **LinkedIn:** https://br.linkedin.com/in/miguel-garbo-486268330
 - **Email:** miguelggarbo@gmail.com
 
 ---
