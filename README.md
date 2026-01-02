@@ -5,18 +5,17 @@ Sou desenvolvedor de software com interesse em criar soluções eficientes, esca
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens:** Java, Python, Typescript, JavaScript, SQL, HTML, CSS
-- **Frameworks:** SpringBoot, Angular, FastAPI
+- **Frameworks:** SpringBoot, Angular, FastAPI, Dash
 - **Banco de Dados:** MySQL, PostgreSQL  
-- **DevOps & Infra:** Docker, Docker Compose  
-- **Outros:** Plotly, Pandas, Git, Testes Automatizados
+- **DevOps & Infra:** Docker, Docker Compose, Cloud Computing
+- **Outros:** Pandas, Git, Testes Automatizados, JWT
 
 
 ## 📚 O que estou estudando no momento
 
-- Dash Plotly
-- Arquitetura em Nuvem com AWS 
-- Spring Security
-- Json Web Token
+- Minio
+- Redes de Computadores
+- Segurança de Software
 
 ## 📫 Como me encontrar
 
