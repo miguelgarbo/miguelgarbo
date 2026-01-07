@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Miguel
 
-Sou desenvolvedor de software com interesse em criar soluções eficientes, escaláveis e com foco na experiência do usuário. Aqui você encontra alguns dos meus projetos, estudos, experimentos e muita coisa que escrevo para aprender melhor.
+Sou desenvolvedor de software com interesse em criar soluções eficientes e com foco na experiência do usuário. Aqui você encontra alguns dos meus projetos, estudos, experimentos e muita coisa que escrevo para aprender melhor.
 
 ## 🚀 Tecnologias e Ferramentas
 
